@@ -1,29 +1,30 @@
+/* A universal selector, it can be used to select all elements  */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Changes the background color of the body page */
 body {
     background-color: #d9dcd6;
 }
-
+/* Changes the parent header background and text */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Styles the h1 tag to be inline */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Styles the header wording to change the color of just the word seo */
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Styles the list on the top right of the page */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -143,20 +144,11 @@ section {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 .footer {
     padding: 30px;
