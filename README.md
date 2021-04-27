@@ -8,6 +8,7 @@
 - With this project, I was tasked to verify that all the contect on the page worked properly.
 - Making sure that each section was easier to read, by changing divs to more suitable syntax.
 - Below i have detailed some of the fixes on the page, that i could find.
+- Visit site https://bagegonz.github.io/Code-Refactor/
 
 
 ## Fixes
