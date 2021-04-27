@@ -1,6 +1,6 @@
 # Code-Refactor
 
-![alt text] 
+
 ## Fixes
 - Fixed link
 - Added alternative tags
